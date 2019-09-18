@@ -1,0 +1,23 @@
+2019-09-15 20:02:00,290 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 15833 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-15 20:02:00,294 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-15 20:02:01,407 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2019-09-15 20:02:01,407 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet Engine: Apache Tomcat/8.5.34
+2019-09-15 20:02:01,411 INFO org.apache.catalina.core.AprLifecycleListener [localhost-startStop-1] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/andreychristian/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-09-15 20:02:01,498 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-09-15 20:02:02,000 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 2.099 seconds (JVM running for 2.82)
+2019-09-15 20:02:35,032 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 15839 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-15 20:02:35,034 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-15 20:02:36,163 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2019-09-15 20:02:36,163 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet Engine: Apache Tomcat/8.5.34
+2019-09-15 20:02:36,167 INFO org.apache.catalina.core.AprLifecycleListener [localhost-startStop-1] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/andreychristian/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-09-15 20:02:36,244 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-09-15 20:02:36,743 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 2.038 seconds (JVM running for 2.629)
+2019-09-15 20:02:58,117 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8086-exec-1] Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-09-15 20:06:33,923 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 15873 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-15 20:06:33,925 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-15 20:06:33,926 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-15 20:06:35,028 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2019-09-15 20:06:35,029 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet Engine: Apache Tomcat/8.5.34
+2019-09-15 20:06:35,033 INFO org.apache.catalina.core.AprLifecycleListener [localhost-startStop-1] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/andreychristian/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-09-15 20:06:35,121 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-09-15 20:06:35,620 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 2.098 seconds (JVM running for 2.814)

@@ -1,0 +1,16 @@
+{
+    "PAM": {
+      "accountNumber": "09887766",
+      "accountName": "PAM",
+      "amount": "10000",
+      "productCode": "2102"
+    }
+  ,
+
+    "PLN": {
+      "accountNumber": "09828272",
+      "accountName": "PLN",
+      "productCode": "2101"
+    }
+
+}

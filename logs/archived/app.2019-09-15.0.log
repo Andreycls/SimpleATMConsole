@@ -1,0 +1,28 @@
+2019-09-15 20:07:55,216 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 15889 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-15 20:07:55,219 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-15 20:07:55,220 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-15 20:07:56,932 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 2.012 seconds (JVM running for 2.7)
+2019-09-15 20:09:38,569 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 15907 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-15 20:09:38,585 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-15 20:09:38,589 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-15 20:09:40,227 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 1.998 seconds (JVM running for 2.726)
+2019-09-15 20:11:20,626 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 15922 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-15 20:11:20,629 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-15 20:11:20,631 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-15 20:11:22,728 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 2.385 seconds (JVM running for 3.133)
+2019-09-15 20:14:34,178 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 15947 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-15 20:14:34,180 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-15 20:14:34,182 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-15 20:14:35,876 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 1.995 seconds (JVM running for 2.665)
+2019-09-15 20:15:56,250 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 15964 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-15 20:15:56,252 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-15 20:15:56,254 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-15 20:15:57,790 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 1.854 seconds (JVM running for 2.553)
+2019-09-15 21:47:13,400 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 16496 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-15 21:47:13,403 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-15 21:47:13,405 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-15 21:47:15,031 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 1.864 seconds (JVM running for 32.536)
+2019-09-15 21:49:40,610 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 16518 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-15 21:49:40,612 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-15 21:49:40,614 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-15 21:49:41,984 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 1.62 seconds (JVM running for 32.222)

@@ -1,0 +1,1036 @@
+2019-09-16 08:06:12,034 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 17207 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 08:06:12,043 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 08:06:12,043 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 08:06:13,639 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 1.898 seconds (JVM running for 2.559)
+2019-09-16 08:08:53,402 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 17229 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 08:08:53,406 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 08:08:53,406 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 08:08:55,144 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 2.293 seconds (JVM running for 3.059)
+2019-09-16 08:26:53,866 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 17388 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 08:26:53,875 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 08:26:53,876 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 08:26:55,668 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 2.376 seconds (JVM running for 3.141)
+2019-09-16 08:30:56,718 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 17425 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 08:30:56,721 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 08:30:56,721 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 08:30:58,344 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 2.062 seconds (JVM running for 3.126)
+2019-09-16 08:32:49,478 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 17445 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 08:32:49,480 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 08:32:49,481 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 08:32:51,056 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 1.888 seconds (JVM running for 2.626)
+2019-09-16 12:54:06,781 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 41749 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 12:54:06,785 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 12:54:06,787 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 12:54:08,837 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 2.512 seconds (JVM running for 3.263)
+2019-09-16 13:18:48,468 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 41939 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 13:18:48,470 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 13:18:48,471 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 13:18:49,889 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 1.887 seconds (JVM running for 2.672)
+2019-09-16 13:27:13,873 DEBUG org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator [background-preinit] Loaded expression factory via original TCCL
+2019-09-16 13:27:13,976 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 42001 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 13:27:13,987 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 13:27:13,987 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 13:27:15,956 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 2.298 seconds (JVM running for 3.068)
+2019-09-16 13:28:41,126 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 42019 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 13:28:41,128 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 13:28:41,129 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 13:28:42,681 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 2.047 seconds (JVM running for 2.827)
+2019-09-16 13:39:11,595 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 42100 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 13:39:11,601 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 13:39:11,601 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 13:39:13,055 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 1.861 seconds (JVM running for 2.693)
+2019-09-16 14:03:58,484 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 42290 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 14:03:58,486 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 14:03:58,487 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 14:04:00,030 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 1.93 seconds (JVM running for 2.683)
+2019-09-16 14:07:15,985 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 42319 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 14:07:15,991 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 14:07:15,991 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 14:07:18,072 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 2.497 seconds (JVM running for 3.31)
+2019-09-16 15:24:10,468 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 42869 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 15:24:10,470 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 15:24:10,471 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 15:24:12,031 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 1.922 seconds (JVM running for 2.795)
+2019-09-16 16:52:00,807 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 43498 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 16:52:00,810 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 16:52:00,811 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 16:52:02,935 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 2.539 seconds (JVM running for 3.558)
+2019-09-16 18:58:12,365 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 69325 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 18:58:12,367 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 18:58:12,368 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 18:58:14,123 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field producer in projek.server.controller.PageController required a bean of type 'projek.messageBroker.Producer' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'projek.messageBroker.Producer' in your configuration.
+
+2019-09-16 18:58:34,356 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 69405 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 18:58:34,360 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 18:58:34,361 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 18:58:35,712 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field producer in projek.server.controller.PageController required a bean of type 'projek.messageBroker.Producer' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'projek.messageBroker.Producer' in your configuration.
+
+2019-09-16 19:00:19,638 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 69747 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:00:19,642 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:00:19,643 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:00:21,346 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field producer in projek.server.controller.PageController required a bean of type 'projek.messageBroker.Producer' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'projek.messageBroker.Producer' in your configuration.
+
+2019-09-16 19:00:31,477 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 69794 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:00:31,483 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:00:31,484 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:00:32,686 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field producer in projek.server.controller.PageController required a bean of type 'projek.messageBroker.Producer' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'projek.messageBroker.Producer' in your configuration.
+
+2019-09-16 19:01:33,492 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 69997 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:01:33,498 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:01:33,498 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:01:34,778 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field producer in projek.server.controller.PageController required a bean of type 'projek.messageBroker.Producer' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'projek.messageBroker.Producer' in your configuration.
+
+2019-09-16 19:01:58,132 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 70067 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:01:58,134 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:01:58,135 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:01:59,359 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field producer in projek.server.controller.PageController required a bean of type 'projek.messageBroker.Producer' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'projek.messageBroker.Producer' in your configuration.
+
+2019-09-16 19:02:19,301 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 70135 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:02:19,322 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:02:19,322 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:02:20,713 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field producer in projek.server.controller.PageController required a bean of type 'projek.messageBroker.Producer' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'projek.messageBroker.Producer' in your configuration.
+
+2019-09-16 19:02:26,955 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 70159 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:02:26,960 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:02:26,961 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:02:28,285 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field producer in projek.server.controller.PageController required a bean of type 'projek.messageBroker.Producer' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'projek.messageBroker.Producer' in your configuration.
+
+2019-09-16 19:03:15,377 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 70318 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:03:15,380 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:03:15,381 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:03:16,792 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field producer in projek.server.controller.PageController required a bean of type 'projek.messageBroker.Producer' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'projek.messageBroker.Producer' in your configuration.
+
+2019-09-16 19:03:29,239 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 70366 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:03:29,241 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:03:29,247 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:03:30,632 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field producer in projek.server.controller.PageController required a bean of type 'projek.messageBroker.Producer' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'projek.messageBroker.Producer' in your configuration.
+
+2019-09-16 19:05:49,649 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 70803 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:05:49,652 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:05:49,652 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:05:51,141 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field producer in projek.server.controller.PageController required a bean of type 'projek.messageBroker.Producer' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'projek.messageBroker.Producer' in your configuration.
+
+2019-09-16 19:06:21,408 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 70898 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:06:21,414 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:06:21,415 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:06:22,999 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field producer in projek.server.controller.PageController required a bean of type 'projek.messageBroker.Producer' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'projek.messageBroker.Producer' in your configuration.
+
+2019-09-16 19:06:34,864 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 70952 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:06:34,867 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:06:34,867 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:06:36,289 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field producer in projek.server.controller.PageController required a bean of type 'projek.messageBroker.Producer' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'projek.messageBroker.Producer' in your configuration.
+
+2019-09-16 19:06:47,626 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 70986 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:06:47,632 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:06:47,633 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:06:49,161 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field producer in projek.server.controller.PageController required a bean of type 'projek.messageBroker.Producer' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'projek.messageBroker.Producer' in your configuration.
+
+2019-09-16 19:06:59,305 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 71020 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:06:59,312 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:06:59,314 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:07:01,092 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field producer in projek.server.controller.PageController required a bean of type 'projek.messageBroker.Producer' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'projek.messageBroker.Producer' in your configuration.
+
+2019-09-16 19:08:24,564 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 71295 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:08:24,574 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:08:24,575 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:08:25,926 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field producer in projek.server.controller.PageController required a bean of type 'projek.messageBroker.Producer' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'projek.messageBroker.Producer' in your configuration.
+
+2019-09-16 19:08:36,522 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 71337 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:08:36,524 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:08:36,526 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:08:39,292 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field producer in projek.server.controller.PageController required a bean of type 'projek.messageBroker.Producer' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'projek.messageBroker.Producer' in your configuration.
+
+2019-09-16 19:08:59,489 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 71410 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:08:59,492 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:08:59,493 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:09:00,845 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field producer in projek.server.controller.PageController required a bean of type 'projek.messageBroker.Producer' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'projek.messageBroker.Producer' in your configuration.
+
+2019-09-16 19:11:02,968 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 71805 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:11:02,971 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:11:02,973 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:11:04,422 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field producer in projek.server.controller.PageController required a bean of type 'projek.messageBroker.Producer' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'projek.messageBroker.Producer' in your configuration.
+
+2019-09-16 19:12:30,280 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 72077 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:12:30,286 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:12:30,287 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:12:32,138 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 2.44 seconds (JVM running for 3.348)
+2019-09-16 19:12:58,701 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 72174 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:12:58,711 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:12:58,712 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:13:00,393 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 2.05 seconds (JVM running for 2.881)
+2019-09-16 19:13:15,672 ERROR org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] [http-nio-8086-exec-1] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at projek.server.controller.PageController.checkAccountNumber(PageController.java:32)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:209)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:891)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:974)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:866)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:851)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+2019-09-16 19:13:18,649 ERROR org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] [http-nio-8086-exec-3] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at projek.server.controller.PageController.checkAccountNumber(PageController.java:32)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:209)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:891)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:974)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:866)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:851)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+2019-09-16 19:13:32,185 ERROR org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] [http-nio-8086-exec-5] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at projek.server.controller.PageController.checkAccountNumber(PageController.java:32)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:209)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:891)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:974)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:866)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:851)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+2019-09-16 19:13:32,897 ERROR org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] [http-nio-8086-exec-7] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at projek.server.controller.PageController.checkAccountNumber(PageController.java:32)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:209)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:891)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:974)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:866)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:851)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+2019-09-16 19:13:33,046 ERROR org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] [http-nio-8086-exec-9] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at projek.server.controller.PageController.checkAccountNumber(PageController.java:32)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:209)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:891)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:974)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:866)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:851)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+2019-09-16 19:13:33,171 ERROR org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] [http-nio-8086-exec-1] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at projek.server.controller.PageController.checkAccountNumber(PageController.java:32)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:209)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:891)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:974)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:866)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:851)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+2019-09-16 19:13:33,339 ERROR org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] [http-nio-8086-exec-3] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at projek.server.controller.PageController.checkAccountNumber(PageController.java:32)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:209)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:891)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:974)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:866)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:851)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+2019-09-16 19:13:37,033 ERROR org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] [http-nio-8086-exec-5] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at projek.server.controller.PageController.checkAccountNumber(PageController.java:32)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:209)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:891)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:974)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:866)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:851)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+2019-09-16 19:13:53,572 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 72348 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:13:53,587 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:13:53,588 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:13:55,324 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 2.144 seconds (JVM running for 2.953)
+2019-09-16 19:15:32,862 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 72655 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:15:32,865 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:15:32,866 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:15:34,652 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 2.465 seconds (JVM running for 3.413)
+2019-09-16 19:15:35,364 ERROR org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] [http-nio-8086-exec-1] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at projek.server.controller.PageController.checkAccountNumber(PageController.java:32)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:209)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:891)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:974)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:866)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:851)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+2019-09-16 19:18:02,684 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 73128 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:18:02,692 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:18:02,693 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:18:04,462 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 2.131 seconds (JVM running for 2.884)
+2019-09-16 19:18:08,698 ERROR org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] [http-nio-8086-exec-1] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at projek.server.controller.PageController.checkAccountNumber(PageController.java:32)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:209)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:891)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:991)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:925)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:974)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:866)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:851)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+2019-09-16 19:19:18,021 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 73361 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:19:18,027 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:19:18,028 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:19:20,115 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 2.484 seconds (JVM running for 3.205)
+2019-09-16 19:20:29,240 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 73585 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:20:29,243 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:20:29,244 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:20:31,028 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 2.235 seconds (JVM running for 3.046)
+2019-09-16 19:20:37,979 ERROR org.springframework.amqp.rabbit.connection.CachingConnectionFactory [AMQP Connection 127.0.0.1:5672] Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'projek.direct' in vhost '/': received 'topic' but current is 'direct', class-id=40, method-id=10)
+2019-09-16 19:20:39,007 ERROR org.springframework.amqp.rabbit.connection.CachingConnectionFactory [AMQP Connection 127.0.0.1:5672] Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'projek.direct' in vhost '/': received 'topic' but current is 'direct', class-id=40, method-id=10)
+2019-09-16 19:20:41,028 ERROR org.springframework.amqp.rabbit.connection.CachingConnectionFactory [AMQP Connection 127.0.0.1:5672] Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'projek.direct' in vhost '/': received 'topic' but current is 'direct', class-id=40, method-id=10)
+2019-09-16 19:20:45,087 ERROR org.springframework.amqp.rabbit.connection.CachingConnectionFactory [AMQP Connection 127.0.0.1:5672] Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'projek.direct' in vhost '/': received 'topic' but current is 'direct', class-id=40, method-id=10)
+2019-09-16 19:20:50,092 ERROR org.springframework.amqp.rabbit.connection.CachingConnectionFactory [AMQP Connection 127.0.0.1:5672] Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'projek.direct' in vhost '/': received 'topic' but current is 'direct', class-id=40, method-id=10)
+2019-09-16 19:20:50,115 ERROR org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] [http-nio-8086-exec-1] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.amqp.AmqpIOException: java.io.IOException] with root cause
+com.rabbitmq.client.ShutdownSignalException: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'projek.direct' in vhost '/': received 'topic' but current is 'direct', class-id=40, method-id=10)
+	at com.rabbitmq.client.impl.ChannelN.asyncShutdown(ChannelN.java:516)
+	at com.rabbitmq.client.impl.ChannelN.processAsync(ChannelN.java:346)
+	at com.rabbitmq.client.impl.AMQChannel.handleCompleteInboundCommand(AMQChannel.java:178)
+	at com.rabbitmq.client.impl.AMQChannel.handleFrame(AMQChannel.java:111)
+	at com.rabbitmq.client.impl.AMQConnection.readFrame(AMQConnection.java:670)
+	at com.rabbitmq.client.impl.AMQConnection.access$300(AMQConnection.java:48)
+	at com.rabbitmq.client.impl.AMQConnection$MainLoop.run(AMQConnection.java:597)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+2019-09-16 19:22:48,401 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 74024 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:22:48,405 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:22:48,406 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:22:50,280 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 2.346 seconds (JVM running for 3.161)
+2019-09-16 19:35:18,697 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 76349 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:35:18,709 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:35:18,710 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:35:20,595 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 2.331 seconds (JVM running for 3.096)
+2019-09-16 19:35:59,604 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 76481 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:35:59,611 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:35:59,611 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:36:01,574 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 2.395 seconds (JVM running for 3.128)
+2019-09-16 19:50:16,590 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 79145 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 19:50:16,593 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 19:50:16,596 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 19:50:18,672 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 2.657 seconds (JVM running for 3.529)
+2019-09-16 23:52:51,102 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 88823 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 23:52:51,105 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 23:52:51,105 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 23:52:52,828 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 1.981 seconds (JVM running for 33.018)
+2019-09-16 23:56:14,392 INFO projek.main.SpringBootRest2Application [main] Starting SpringBootRest2Application on Andrey with PID 89465 (/Users/andreychristian/Downloads/P01/target/classes started by andreychristian in /Users/andreychristian/Downloads/P01)
+2019-09-16 23:56:14,394 DEBUG projek.main.SpringBootRest2Application [main] Running with Spring Boot v2.0.5.BUILD-SNAPSHOT, Spring v5.0.9.RELEASE
+2019-09-16 23:56:14,395 INFO projek.main.SpringBootRest2Application [main] The following profiles are active: @spring.profiles.active@
+2019-09-16 23:56:16,197 INFO projek.main.SpringBootRest2Application [main] Started SpringBootRest2Application in 2.012 seconds (JVM running for 32.72)
